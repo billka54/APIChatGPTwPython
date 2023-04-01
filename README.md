@@ -1,4 +1,5 @@
-# APIChatGPTwPython
+# :APIChatGPTwPython:
+---
 **Creación de un programa que conecta con la API de ChatGPT**
 
 He desarrollado este código con la ayuda de ciertas librerías:
