@@ -7,3 +7,5 @@ He desarrollado este código con la ayuda de ciertas librerías:
 * ✅ typer
 
 Para poder hacer correr este programa es necesario estar autenticado en [openai.com](https://openai.com/)
+
+:cross_mark_button
